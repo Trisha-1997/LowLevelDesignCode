@@ -8,8 +8,3 @@ public class InheritanceDemo {
     }
 }
 
-/*
-Output :
-Animal is eating.
-Dog barks: Woof Woof!
-*/
